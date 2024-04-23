@@ -1,0 +1,2 @@
+.main-box{background-color:#7fffd4;border-radius:20px;color:#000;margin:50px auto;max-width:600px;padding:30px 50px}.alert{animation:alertFrame 1s;background-color:#0d6efd;border-color:grey;color:#fff;position:absolute;right:20px;top:100px;width:400px;z-index:99}@keyframes alertFrame{0%{right:-500px}to{right:20px}}#logout{cursor:pointer}
+/*# sourceMappingURL=main.46010356.css.map*/
